@@ -24,3 +24,8 @@
 2. Sube **por la web UI** los archivos: `app.py`, `requirements.txt`, `README.md` y opcionalmente `docs/caso.pdf`.
 3. Ve a https://share.streamlit.io → "New app" → conecta con GitHub → selecciona tu repo y rama (p.ej. `main`) → Main file: `app.py` → Deploy.
 
+
+##RUTA APLICACION 
+
+https://iotaboratory.streamlit.app/
+
